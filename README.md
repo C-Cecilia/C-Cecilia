@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yalun Chen</h1>
 <h3 align="center">A solution-focused Computer Science graduate with proven analytical skills and an ability to learn new technologies quickly.</h3>
 
-- 🌱 I’m currently learning **Angular & Django**
+- 🌱 I’m currently learning **Angular & .Net*
 
 - 📫 How to reach me **chen.yalun@hotmail.com**
 
